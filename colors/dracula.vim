@@ -330,7 +330,7 @@ hi! link StorageClass DraculaPink
 hi! link Structure DraculaPink
 hi! link Typedef DraculaPink
 
-hi! link Type DraculaCyanItalic
+hi! link Type DraculaCyan
 
 hi! link Delimiter DraculaFg
 
